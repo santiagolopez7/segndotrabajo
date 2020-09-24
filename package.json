@@ -1,0 +1,28 @@
+{
+  "name": "visualstudio",
+  "version": "1.0.0",
+  "description": "Taller electiva 1",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santiagolopez7/tallerJSsantiagol.git"
+  },
+  "keywords": [
+    "Taller",
+    "de",
+    "electiva",
+    "23/09/2020"
+  ],
+  "author": "Santiago Lopez - 6017117",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santiagolopez7/tallerJSsantiagol/issues"
+  },
+  "homepage": "https://github.com/santiagolopez7/tallerJSsantiagol#readme",
+  "devDependencies": {
+    "electron": "^10.1.2"
+  }
+}
